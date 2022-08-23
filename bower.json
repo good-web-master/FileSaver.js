@@ -1,0 +1,9 @@
+{
+  "name": "FileSaver.js",
+  "version": "1.20150507.2",
+  "license": "MIT",
+  "main": "./FileSaver.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
